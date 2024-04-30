@@ -1,44 +1,159 @@
 {
-    "name": "@types/node-fetch",
-    "version": "2.6.11",
-    "description": "TypeScript definitions for node-fetch",
-    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node-fetch",
+    "name": "@types/node",
+    "version": "18.19.31",
+    "description": "TypeScript definitions for node",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
     "license": "MIT",
     "contributors": [
         {
-            "name": "Torsten Werner",
-            "githubUsername": "torstenwerner",
-            "url": "https://github.com/torstenwerner"
+            "name": "Microsoft TypeScript",
+            "githubUsername": "Microsoft",
+            "url": "https://github.com/Microsoft"
         },
         {
-            "name": "Niklas Lindgren",
-            "githubUsername": "nikcorg",
-            "url": "https://github.com/nikcorg"
+            "name": "Alberto Schiabel",
+            "githubUsername": "jkomyno",
+            "url": "https://github.com/jkomyno"
         },
         {
-            "name": "Vinay Bedre",
-            "githubUsername": "vinaybedre",
-            "url": "https://github.com/vinaybedre"
+            "name": "Alvis HT Tang",
+            "githubUsername": "alvis",
+            "url": "https://github.com/alvis"
         },
         {
-            "name": "Antonio Román",
-            "githubUsername": "kyranet",
-            "url": "https://github.com/kyranet"
+            "name": "Andrew Makarov",
+            "githubUsername": "r3nya",
+            "url": "https://github.com/r3nya"
         },
         {
-            "name": "Andrew Leedham",
-            "githubUsername": "AndrewLeedham",
-            "url": "https://github.com/AndrewLeedham"
+            "name": "Benjamin Toueg",
+            "githubUsername": "btoueg",
+            "url": "https://github.com/btoueg"
         },
         {
-            "name": "Jason Li",
-            "githubUsername": "JasonLi914",
-            "url": "https://github.com/JasonLi914"
+            "name": "Chigozirim C.",
+            "githubUsername": "smac89",
+            "url": "https://github.com/smac89"
         },
         {
-            "name": "Steve Faulkner",
-            "githubUsername": "southpolesteve",
-            "url": "https://github.com/southpolesteve"
+            "name": "David Junger",
+            "githubUsername": "touffy",
+            "url": "https://github.com/touffy"
+        },
+        {
+            "name": "Deividas Bakanas",
+            "githubUsername": "DeividasBakanas",
+            "url": "https://github.com/DeividasBakanas"
+        },
+        {
+            "name": "Eugene Y. Q. Shen",
+            "githubUsername": "eyqs",
+            "url": "https://github.com/eyqs"
+        },
+        {
+            "name": "Hannes Magnusson",
+            "githubUsername": "Hannes-Magnusson-CK",
+            "url": "https://github.com/Hannes-Magnusson-CK"
+        },
+        {
+            "name": "Huw",
+            "githubUsername": "hoo29",
+            "url": "https://github.com/hoo29"
+        },
+        {
+            "name": "Kelvin Jin",
+            "githubUsername": "kjin",
+            "url": "https://github.com/kjin"
+        },
+        {
+            "name": "Klaus Meinhardt",
+            "githubUsername": "ajafff",
+            "url": "https://github.com/ajafff"
+        },
+        {
+            "name": "Lishude",
+            "githubUsername": "islishude",
+            "url": "https://github.com/islishude"
+        },
+        {
+            "name": "Mariusz Wiktorczyk",
+            "githubUsername": "mwiktorczyk",
+            "url": "https://github.com/mwiktorczyk"
+        },
+        {
+            "name": "Mohsen Azimi",
+            "githubUsername": "mohsen1",
+            "url": "https://github.com/mohsen1"
+        },
+        {
+            "name": "Nikita Galkin",
+            "githubUsername": "galkin",
+            "url": "https://github.com/galkin"
+        },
+        {
+            "name": "Parambir Singh",
+            "githubUsername": "parambirs",
+            "url": "https://github.com/parambirs"
+        },
+        {
+            "name": "Sebastian Silbermann",
+            "githubUsername": "eps1lon",
+            "url": "https://github.com/eps1lon"
+        },
+        {
+            "name": "Simon Schick",
+            "githubUsername": "SimonSchick",
+            "url": "https://github.com/SimonSchick"
+        },
+        {
+            "name": "Thomas den Hollander",
+            "githubUsername": "ThomasdenH",
+            "url": "https://github.com/ThomasdenH"
+        },
+        {
+            "name": "Wilco Bakker",
+            "githubUsername": "WilcoBakker",
+            "url": "https://github.com/WilcoBakker"
+        },
+        {
+            "name": "wwwy3y3",
+            "githubUsername": "wwwy3y3",
+            "url": "https://github.com/wwwy3y3"
+        },
+        {
+            "name": "Samuel Ainsworth",
+            "githubUsername": "samuela",
+            "url": "https://github.com/samuela"
+        },
+        {
+            "name": "Kyle Uehlein",
+            "githubUsername": "kuehlein",
+            "url": "https://github.com/kuehlein"
+        },
+        {
+            "name": "Thanik Bhongbhibhat",
+            "githubUsername": "bhongy",
+            "url": "https://github.com/bhongy"
+        },
+        {
+            "name": "Marcin Kopacz",
+            "githubUsername": "chyzwar",
+            "url": "https://github.com/chyzwar"
+        },
+        {
+            "name": "Trivikram Kamat",
+            "githubUsername": "trivikr",
+            "url": "https://github.com/trivikr"
+        },
+        {
+            "name": "Junxiao Shi",
+            "githubUsername": "yoursunny",
+            "url": "https://github.com/yoursunny"
+        },
+        {
+            "name": "Ilia Baryshnikov",
+            "githubUsername": "qwelias",
+            "url": "https://github.com/qwelias"
         },
         {
             "name": "ExE Boss",
@@ -46,24 +161,49 @@
             "url": "https://github.com/ExE-Boss"
         },
         {
-            "name": "Alex Savin",
-            "githubUsername": "alexandrusavin",
-            "url": "https://github.com/alexandrusavin"
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz",
+            "url": "https://github.com/peterblazejewicz"
         },
         {
-            "name": "Alexis Tyler",
-            "githubUsername": "OmgImAlexis",
-            "url": "https://github.com/OmgImAlexis"
+            "name": "Anna Henningsen",
+            "githubUsername": "addaleax",
+            "url": "https://github.com/addaleax"
         },
         {
-            "name": "Jakub Kisielewski",
-            "githubUsername": "kbkk",
-            "url": "https://github.com/kbkk"
+            "name": "Victor Perin",
+            "githubUsername": "victorperin",
+            "url": "https://github.com/victorperin"
         },
         {
-            "name": "David Glasser",
-            "githubUsername": "glasser",
-            "url": "https://github.com/glasser"
+            "name": "Yongsheng Zhang",
+            "githubUsername": "ZYSzys",
+            "url": "https://github.com/ZYSzys"
+        },
+        {
+            "name": "NodeJS Contributors",
+            "githubUsername": "NodeJS",
+            "url": "https://github.com/NodeJS"
+        },
+        {
+            "name": "Linus Unnebäck",
+            "githubUsername": "LinusU",
+            "url": "https://github.com/LinusU"
+        },
+        {
+            "name": "wafuwafu13",
+            "githubUsername": "wafuwafu13",
+            "url": "https://github.com/wafuwafu13"
+        },
+        {
+            "name": "Matteo Collina",
+            "githubUsername": "mcollina",
+            "url": "https://github.com/mcollina"
+        },
+        {
+            "name": "Dmitry Semigradsky",
+            "githubUsername": "Semigradsky",
+            "url": "https://github.com/Semigradsky"
         }
     ],
     "main": "",
@@ -71,13 +211,12 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
-        "directory": "types/node-fetch"
+        "directory": "types/node"
     },
     "scripts": {},
     "dependencies": {
-        "@types/node": "*",
-        "form-data": "^4.0.0"
+        "undici-types": "~5.26.4"
     },
-    "typesPublisherContentHash": "912e2c03935d0f960f529de6f688e52c77e78b7ca935198cd500804e69ea371f",
-    "typeScriptVersion": "4.6"
+    "typesPublisherContentHash": "7348694678b514716d29b96928bb8211a9ac6af108f4217c3e3b06aa1d1cfc57",
+    "typeScriptVersion": "4.7"
 }

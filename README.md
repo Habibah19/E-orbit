@@ -1,15 +1,15 @@
 # Installation
-> `npm install --save @types/node-fetch`
+> `npm install --save @types/node`
 
 # Summary
-This package contains type definitions for node-fetch (https://github.com/bitinn/node-fetch).
+This package contains type definitions for node (https://nodejs.org/).
 
 # Details
-Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node-fetch.
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node/v18.
 
 ### Additional Details
- * Last updated: Tue, 16 Jan 2024 23:07:00 GMT
- * Dependencies: [@types/node](https://npmjs.com/package/@types/node), [form-data](https://npmjs.com/package/form-data)
+ * Last updated: Tue, 09 Apr 2024 04:08:23 GMT
+ * Dependencies: [undici-types](https://npmjs.com/package/undici-types)
 
 # Credits
-These definitions were written by [Torsten Werner](https://github.com/torstenwerner), [Niklas Lindgren](https://github.com/nikcorg), [Vinay Bedre](https://github.com/vinaybedre), [Antonio Román](https://github.com/kyranet), [Andrew Leedham](https://github.com/AndrewLeedham), [Jason Li](https://github.com/JasonLi914), [Steve Faulkner](https://github.com/southpolesteve), [ExE Boss](https://github.com/ExE-Boss), [Alex Savin](https://github.com/alexandrusavin), [Alexis Tyler](https://github.com/OmgImAlexis), [Jakub Kisielewski](https://github.com/kbkk), and [David Glasser](https://github.com/glasser).
+These definitions were written by [Microsoft TypeScript](https://github.com/Microsoft), [Alberto Schiabel](https://github.com/jkomyno), [Alvis HT Tang](https://github.com/alvis), [Andrew Makarov](https://github.com/r3nya), [Benjamin Toueg](https://github.com/btoueg), [Chigozirim C.](https://github.com/smac89), [David Junger](https://github.com/touffy), [Deividas Bakanas](https://github.com/DeividasBakanas), [Eugene Y. Q. Shen](https://github.com/eyqs), [Hannes Magnusson](https://github.com/Hannes-Magnusson-CK), [Huw](https://github.com/hoo29), [Kelvin Jin](https://github.com/kjin), [Klaus Meinhardt](https://github.com/ajafff), [Lishude](https://github.com/islishude), [Mariusz Wiktorczyk](https://github.com/mwiktorczyk), [Mohsen Azimi](https://github.com/mohsen1), [Nikita Galkin](https://github.com/galkin), [Parambir Singh](https://github.com/parambirs), [Sebastian Silbermann](https://github.com/eps1lon), [Simon Schick](https://github.com/SimonSchick), [Thomas den Hollander](https://github.com/ThomasdenH), [Wilco Bakker](https://github.com/WilcoBakker), [wwwy3y3](https://github.com/wwwy3y3), [Samuel Ainsworth](https://github.com/samuela), [Kyle Uehlein](https://github.com/kuehlein), [Thanik Bhongbhibhat](https://github.com/bhongy), [Marcin Kopacz](https://github.com/chyzwar), [Trivikram Kamat](https://github.com/trivikr), [Junxiao Shi](https://github.com/yoursunny), [Ilia Baryshnikov](https://github.com/qwelias), [ExE Boss](https://github.com/ExE-Boss), [Piotr Błażejewicz](https://github.com/peterblazejewicz), [Anna Henningsen](https://github.com/addaleax), [Victor Perin](https://github.com/victorperin), [Yongsheng Zhang](https://github.com/ZYSzys), [NodeJS Contributors](https://github.com/NodeJS), [Linus Unnebäck](https://github.com/LinusU), [wafuwafu13](https://github.com/wafuwafu13), [Matteo Collina](https://github.com/mcollina), and [Dmitry Semigradsky](https://github.com/Semigradsky).
