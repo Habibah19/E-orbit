@@ -1,40 +1,15 @@
-humanize-ms
----------------
+# Installation
+> `npm install --save @types/node-fetch`
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][coveralls-image]][coveralls-url]
-[![Gittip][gittip-image]][gittip-url]
-[![David deps][david-image]][david-url]
+# Summary
+This package contains type definitions for node-fetch (https://github.com/bitinn/node-fetch).
 
-[npm-image]: https://img.shields.io/npm/v/humanize-ms.svg?style=flat
-[npm-url]: https://npmjs.org/package/humanize-ms
-[travis-image]: https://img.shields.io/travis/node-modules/humanize-ms.svg?style=flat
-[travis-url]: https://travis-ci.org/node-modules/humanize-ms
-[coveralls-image]: https://img.shields.io/coveralls/node-modules/humanize-ms.svg?style=flat
-[coveralls-url]: https://coveralls.io/r/node-modules/humanize-ms?branch=master
-[gittip-image]: https://img.shields.io/gittip/dead-horse.svg?style=flat
-[gittip-url]: https://www.gittip.com/dead-horse/
-[david-image]: https://img.shields.io/david/node-modules/humanize-ms.svg?style=flat
-[david-url]: https://david-dm.org/node-modules/humanize-ms
+# Details
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node-fetch.
 
-transform humanize time to ms
+### Additional Details
+ * Last updated: Tue, 16 Jan 2024 23:07:00 GMT
+ * Dependencies: [@types/node](https://npmjs.com/package/@types/node), [form-data](https://npmjs.com/package/form-data)
 
-## Installation
-
-```bash
-$ npm install humanize-ms
-```
-
-## Examples
-
-```js
-var ms = require('humanize-ms');
-
-ms('1s') // 1000
-ms(1000) // 1000
-```
-
-### License
-
-MIT
+# Credits
+These definitions were written by [Torsten Werner](https://github.com/torstenwerner), [Niklas Lindgren](https://github.com/nikcorg), [Vinay Bedre](https://github.com/vinaybedre), [Antonio Román](https://github.com/kyranet), [Andrew Leedham](https://github.com/AndrewLeedham), [Jason Li](https://github.com/JasonLi914), [Steve Faulkner](https://github.com/southpolesteve), [ExE Boss](https://github.com/ExE-Boss), [Alex Savin](https://github.com/alexandrusavin), [Alexis Tyler](https://github.com/OmgImAlexis), [Jakub Kisielewski](https://github.com/kbkk), and [David Glasser](https://github.com/glasser).
