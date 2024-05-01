@@ -1,6 +1,5 @@
 # Installation
 > `npm install --save @types/node`
-
 # Summary
 This package contains type definitions for node (https://nodejs.org/).
 
